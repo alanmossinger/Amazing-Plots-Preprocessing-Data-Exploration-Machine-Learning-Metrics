@@ -24,7 +24,7 @@ and gain a full picture of the dataset. In the end, enjoy a complete interpretat
 
 image
 
-What is EDA with Python?
+Q1. What is EDA with Python?
 A. Exploratory Data Analysis (EDA) with Python involves analyzing and summarizing data to gain insights and understand its underlying patterns, relationships, and distributions using Python programming language.
 
 image
@@ -38,4 +38,5 @@ A. The choice of the best EDA tool in Python depends on your specific requiremen
 Q4. How to perform EDA in machine learning?
 A. Performing EDA in machine learning typically involves preprocessing the data by handling missing values, outliers, and feature scaling. Then, various statistical and visual techniques can be employed to analyze the relationships between variables, identify patterns, and assess the relevance of features. This helps in gaining a better understanding of the data before building a machine learning model.
 
+Q5. How to interpret the ML results and Metrics?
 Thanks to Analytics Vidhya for the figures and some explanations!
